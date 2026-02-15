@@ -27,20 +27,28 @@ I like building modern web applications and exploring how things work behind the
 ---
 
 ### 🤝 Connect with me
-<p align="left">
+
+ <p align="left">
   <a href="mailto:sm4922081@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
   </a>
-  <a href="https://linkedin.com/in/your-link">
-    <img src="https://www.linkedin.com/in/shubham-mishra-084518381?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" />
+
+  <a href="https://www.linkedin.com/in/shubham-mishra-084518381/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
   </a>
-  <a href="https://x.com/Shubham88511111">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-  <a href="https://instagram.com/your-link">
-    <img src="https://www.instagram.com/shubham___pndt?igsh=MXhhMnRzNzllMXU1Mw==" />
+<a href="https://x.com/Shubham88511111">
+  <img
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg"
+    height="45"
+    style="background:#000; padding:8px; border-radius:10px; color:white;"
+  />
+</a>
+
+  <a href="https://www.instagram.com/shubham___pndt/">
+    <img src="https://skillicons.dev/icons?i=instagram" height="45" />
   </a>
 </p>
+
 
 ---
 
