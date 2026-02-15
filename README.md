@@ -29,9 +29,7 @@ I like building modern web applications and exploring how things work behind the
 ### 🤝 Connect with me
 
  <p align="left">
-  <a href="mailto:sm4922081@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
-  </a>
+  
 
   <a href="https://www.linkedin.com/in/shubham-mishra-084518381/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
