@@ -28,17 +28,17 @@ I like building modern web applications and exploring how things work behind the
 
 ### 🤝 Connect with me
 <p align="left">
-  <a href="mailto:nirmitjee@gmail.com">
+  <a href="mailto:sm4922081@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://linkedin.com/in/your-link">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://www.linkedin.com/in/shubham-mishra-084518381?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" />
   </a>
-  <a href="https://twitter.com/your-link">
+  <a href="https://x.com/Shubham88511111">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
   <a href="https://instagram.com/your-link">
-    <img src="https://skillicons.dev/icons?i=instagram" />
+    <img src="https://www.instagram.com/shubham___pndt?igsh=MXhhMnRzNzllMXU1Mw==" />
   </a>
 </p>
 
